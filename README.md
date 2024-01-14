@@ -2,7 +2,7 @@ AirBnB clone
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 ### Intro
 
-This project aims to clone the famous AirBnB app in the console. That is provide a command line version of the AirBnB project
+This project aims to clone the famous AirBnB app in the console. That is provide a command line version of the AirBnB project.
 
 Welcome to the AirBnB Clone, a clone console that aims to achieve some functionality of the original AirBnB app.This projects aims to implement the concepts of the cmd module,JSON files and Object Oriented programming to complete the console and its functionalities.
 
